@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.util.Scanner;
-public class VictorSouzaCabral_Ag07_DS_I {
+public class VencimentoIPVA {
     public static void main (String args[]) {
 
 //Declarando as variáveis e seu tipo.
